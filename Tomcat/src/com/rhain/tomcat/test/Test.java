@@ -1,3 +1,4 @@
+package com.rhain.tomcat.test;
 
 public class Test {
  public static void main(String[] args) {
