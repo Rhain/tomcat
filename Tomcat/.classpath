@@ -3,5 +3,25 @@
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
 	<classpathentry kind="lib" path="E:/work/books/ali/web/how tomcat works/HowTomcatWorks/lib/servlet.jar"/>
+	<classpathentry kind="lib" path="E:/work/books/ali/web/how tomcat works/HowTomcatWorks/lib/tomcat-util.jar"/>
+	<classpathentry kind="lib" path="E:/work/books/ali/web/how tomcat works/HowTomcatWorks/lib/commons-beanutils.jar"/>
+	<classpathentry kind="lib" path="E:/work/books/ali/web/how tomcat works/HowTomcatWorks/lib/commons-collections.jar"/>
+	<classpathentry kind="lib" path="E:/work/books/ali/web/how tomcat works/HowTomcatWorks/lib/commons-daemon.jar"/>
+	<classpathentry kind="lib" path="E:/work/books/ali/web/how tomcat works/HowTomcatWorks/lib/commons-digester.jar"/>
+	<classpathentry kind="lib" path="E:/work/books/ali/web/how tomcat works/HowTomcatWorks/lib/commons-logging.jar"/>
+	<classpathentry kind="lib" path="E:/work/books/ali/web/how tomcat works/HowTomcatWorks/lib/commons-modeler.jar"/>
+	<classpathentry kind="lib" path="E:/work/books/ali/web/how tomcat works/HowTomcatWorks/lib/jaas.jar"/>
+	<classpathentry kind="lib" path="E:/work/books/ali/web/how tomcat works/HowTomcatWorks/lib/jakarta-regexp-1.2.jar"/>
+	<classpathentry kind="lib" path="E:/work/books/ali/web/how tomcat works/HowTomcatWorks/lib/jcert.jar"/>
+	<classpathentry kind="lib" path="E:/work/books/ali/web/how tomcat works/HowTomcatWorks/lib/jnet.jar"/>
+	<classpathentry kind="lib" path="E:/work/books/ali/web/how tomcat works/HowTomcatWorks/lib/jsse.jar"/>
+	<classpathentry kind="lib" path="E:/work/books/ali/web/how tomcat works/HowTomcatWorks/lib/mx4j.jar"/>
+	<classpathentry kind="lib" path="E:/work/books/ali/web/how tomcat works/HowTomcatWorks/lib/naming-common.jar"/>
+	<classpathentry kind="lib" path="E:/work/books/ali/web/how tomcat works/HowTomcatWorks/lib/naming-factory.jar"/>
+	<classpathentry kind="lib" path="E:/work/books/ali/web/how tomcat works/HowTomcatWorks/lib/naming-resources.jar"/>
+	<classpathentry kind="lib" path="E:/work/books/ali/web/how tomcat works/HowTomcatWorks/lib/xercesImpl.jar"/>
+	<classpathentry kind="lib" path="E:/work/books/ali/web/how tomcat works/HowTomcatWorks/lib/xmlParserAPIs.jar"/>
+	<classpathentry kind="lib" path="E:/work/books/ali/web/how tomcat works/HowTomcatWorks/lib/catalina-5.0.16.jar"/>
+	<classpathentry kind="lib" path="E:/work/books/ali/web/how tomcat works/HowTomcatWorks/lib/catalina-optional-5.5.4.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
